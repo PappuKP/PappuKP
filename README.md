@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/46879554/89623810-e53d4e80-d8b2-11ea-8966-f32fe89fe28f.jpg" alt="banner that says Pappu Kumar Pashi profession">
 
-I'm a software engineer who is passionate💖 about JavaScript Full Stack Web Development (MERN and MEAN Stack Technologies) and Also Data Science Enthusist. I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution. 
+I'm a software engineer who is passionate💖 about JavaScript Full Stack Web Development (MERN and MEAN Stack Technologies) and Also Data Science Enthusist. I am a Developer Program Member at Github and I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution. 
 
 **- 🔭 I’m currently focussing on ...**
 
