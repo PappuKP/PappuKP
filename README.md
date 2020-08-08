@@ -54,7 +54,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pappuskskumar/)	
 [![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/Pappu_Kumar_Pashi/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/pappu_kumar_pashi/)	
-[![Hackerearth](https://img.shields.io/badge/-Hackerearth-ff8c00?style=flat&labelColor=ff8c00&logo=Hackerearth&logoColor=white)](https://www.hackerearth.com/@Pappu_Kumar_Pashi/
+[![Hackerearth](https://img.shields.io/badge/-Hackerearth-ff8c00?style=flat&labelColor=ff8c00&logo=Hackerearth&logoColor=white)](https://www.hackerearth.com/@Pappu_Kumar_Pashi/)
 [![CodeForces](https://img.shields.io/badge/-codeforces-ec6161?style=flat&labelColor=ec6161&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Pappu_kumar/)	
 [![Codechef](https://img.shields.io/badge/-codechef-909090?style=flat&labelColor=909090&logo=codechef&logoColor=white)](https://www.codechef.com/users/pappu_kumar_20/)
 [![CS-Academy](https://img.shields.io/badge/-csacademy-a19a9a?style=flat&labelColor=a19a9a&logo=csacademy&logoColor=white)](https://csacademy.com/user/pappu_kumar/)	
