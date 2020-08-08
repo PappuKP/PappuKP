@@ -29,6 +29,9 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <code> <img title="graphql" height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /> </code>
 <code> <img title="gatsbyjs" height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
 <code> <img title="electronjs" height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
+<code> <img title="firebase" height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<code> <img title="google_bigquery" height="50" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"></code>
+<code> 
 
 
 # Statistics #
