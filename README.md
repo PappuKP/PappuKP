@@ -51,7 +51,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 ## Competitive Coding Profile ##
 
-[Hackerrank][https://www.hackerrank.com/pappuskskumar/](https://www.hackerrank.com/pappuskskumar/)
+Hackerrank - [https://www.hackerrank.com/pappuskskumar/](https://www.hackerrank.com/pappuskskumar/)
 	
 [InterViewBit](https://www.interviewbit.com/profile/Pappu_Kumar_Pashi/)
 	
