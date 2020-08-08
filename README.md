@@ -35,6 +35,16 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 ![Pappu Kumar Pashi's github stats](https://github-readme-stats.vercel.app/api?username=PappuKP&show_icons=true&theme=tokyonight)
 
+# Most Used Language #
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=pappukp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+---
+
+## Portfolio Website [https://pappukp.netlify.app/](https://pappukp.netlify.app/)
+
+## Resume [https://pappukp.netlify.app/Pappu_Kumar_Pashi_CV](https://pappukp.netlify.app/Pappu_Kumar_Pashi_CV.pdf)
+
 
 **- 📫 How to reach me 🌍 : ...**
 ##### 💌Mail me [pappuskskumar@gmail.com]()
