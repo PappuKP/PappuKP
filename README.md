@@ -42,11 +42,11 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 ---
 
 # Portfolio Website #
-[![p__483_-removebg-preview](https://user-images.githubusercontent.com/46879554/89708111-0032c000-d992-11ea-8a0d-668ccfcbb421.png)](https://pappukp.netlify.app/)
+[![Portfolio Website](https://img.shields.io/badge/Pappu%20Kumar-Portfolio%20website-yellow)](https://pappukp.netlify.app/)
 
 # Resume #
 
-[![Resume](https://user-images.githubusercontent.com/46879554/89708091-cf528b00-d991-11ea-8926-e043a75ed7ad.png)](https://pappukp.netlify.app/Pappu_Kumar_Pashi_CV.pdf/)
+[![Resume](https://img.shields.io/badge/Pappu%20Kumar-Resume-yellowgreen)](https://pappukp.netlify.app/Pappu_Kumar_Pashi_CV.pdf/)
 
 # Competitive Coding Profile #
 
