@@ -54,7 +54,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pappuskskumar/)
 
 	
-[InterViewBit](https://www.interviewbit.com/profile/Pappu_Kumar_Pashi/)
+[![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/Pappu_Kumar_Pashi/)
 	
 [LeetCode](https://leetcode.com/pappu_kumar_pashi/)
 	
