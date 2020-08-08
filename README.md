@@ -41,15 +41,14 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 ---
 
-## Portfolio Website ##
+# Portfolio Website #
+[![p__483_-removebg-preview](https://user-images.githubusercontent.com/46879554/89708111-0032c000-d992-11ea-8a0d-668ccfcbb421.png)](https://pappukp.netlify.app/)
 
-[https://pappukp.netlify.app/](https://pappukp.netlify.app/)
+# Resume #
 
-## Resume ##
+[![Resume](https://user-images.githubusercontent.com/46879554/89708091-cf528b00-d991-11ea-8926-e043a75ed7ad.png)](https://pappukp.netlify.app/Pappu_Kumar_Pashi_CV.pdf/)
 
-[https://pappukp.netlify.app/Pappu_Kumar_Pashi_CV](https://pappukp.netlify.app/Pappu_Kumar_Pashi_CV.pdf)
-
-## Competitive Coding Profile ##
+# Competitive Coding Profile #
 
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pappuskskumar/)	
 [![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/Pappu_Kumar_Pashi/)
