@@ -124,10 +124,9 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 # 7. How to reach me 🌍
 
-##### 💌Mail me [pappuskskumar@gmail.com]()
+💌Mail me [pappuskskumar@gmail.com]()
 
-##### 📞Call ME [+917585881124]()
-
+📞Call ME [+917585881124]()
 <br /><br />
 
 # 8. Social Media Profile
