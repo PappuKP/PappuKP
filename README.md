@@ -122,7 +122,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 </a>
 <br /><br />
 
-# 8. Social Media Profile
+# 7. Social Media Profile
 
  <a href="https://discord.gg/jg9999r/" title='Discord' >
     <img align="left" alt="Pappu Kumar's Discord" src="https://img.icons8.com/fluent/32/000000/discord-new-logo.png" />
@@ -154,8 +154,9 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <a href="https://medium.com/@pappuskskumar" title='Medium'>
     <img align="left" alt="Pappu Kumar's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a>
+<br /><br />
 
-# 7. How to reach me
+# 8. How to reach me
 
 💌Mail me [pappuskskumar@gmail.com]()
 
