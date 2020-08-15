@@ -109,23 +109,17 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 # 6. Developer Profile
 
 <a href="https://www.coursera.org/user/759f1e4f0ec6bea7722f902c3963ae60" title='Coursera'>
-    <img align="left" alt="Keshav's Coursera" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
+    <img align="left" alt="Pappu Kumar's Coursera" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
 </a>
 <a href="https://www.datacamp.com/profile/pappuskskumar/" title='Datacamp'>
-    <img align="left" alt="Keshav's Datacamp" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/datacamp.svg" />
+    <img align="left" alt="Pappu Kumar's Datacamp" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/datacamp.svg" />
 </a>
 <a href="https://codepen.io/Pappu_kumar_pashi/" title='Codepen'>
-    <img align="left" alt="Keshav's Codepen" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codepen.svg" />
+    <img align="left" alt="Pappu Kumar's Codepen" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codepen.svg" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/pappu_kumar_pashi/profile" title='geeksforgeeks'>
-    <img align="left" alt="Keshav's geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
+    <img align="left" alt="Pappu Kumar's geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
 </a>
-<br /><br />
-
-# 7. How to reach me 🌍
-
-💌Mail me [pappuskskumar@gmail.com]()
-📞Call ME [+917585881124]()
 <br /><br />
 
 # 8. Social Media Profile
@@ -160,3 +154,9 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <a href="https://medium.com/@pappuskskumar" title='Medium'>
     <img align="left" alt="Pappu Kumar's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a>
+
+# 7. How to reach me
+
+💌Mail me [pappuskskumar@gmail.com]()
+
+📞Call ME [+917585881124]()
