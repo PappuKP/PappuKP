@@ -1,4 +1,4 @@
-# Hi, I'm Pappu Kumar 🏾👋👨‍🎓‍💻
+# Hi, I'm Pappu Kumar👋👨‍🎓‍💻
 
 <img src="https://user-images.githubusercontent.com/46879554/89623810-e53d4e80-d8b2-11ea-8966-f32fe89fe28f.jpg" alt="banner that says Pappu Kumar Pashi profession">
 
