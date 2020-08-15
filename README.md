@@ -2,11 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/46879554/89623810-e53d4e80-d8b2-11ea-8966-f32fe89fe28f.jpg" alt="banner that says Pappu Kumar Pashi profession">
 
-I'm a software engineer who is passionate💖 about JavaScript Full Stack Web Development (MERN and MEAN Stack Technologies) and Also Data Science Enthusist. I am a Developer Program Member at Github and I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution. 
+I'm a software engineer who is passionate💖 about JavaScript Full Stack Web Development (MERN and MEAN Stack Technologies) and Also Data Science Enthusiast. I am a Developer Program Member at Github and I recently got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open source contribution. 
 
 **- 🔭 I’m currently focussing on ...**
 
-      React js, Node js, Express js, MondoDB , AWS, GCP, React Native
+      React js, Node js, Express js, MongoDB , AWS, GCP, React Native
  
 ## Skills
 
@@ -30,8 +30,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <code> <img title="gatsbyjs" height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
 <code> <img title="electronjs" height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
 <code> <img title="firebase" height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code> <img title="google_bigquery" height="50" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"></code>
-<code> 
+<code> <img title="google_bigquery" height="50" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"></code> 
 
 
 # Statistics #
