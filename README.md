@@ -122,6 +122,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 </a>
 <br /><br />
 
+
 # 7. Social Media Profile
 
  <a href="https://discord.gg/jg9999r/" title='Discord' >
@@ -155,6 +156,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
     <img align="left" alt="Pappu Kumar's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a>
 <br /><br />
+
 
 # 8. How to reach me
 
