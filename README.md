@@ -131,7 +131,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 ***
 # 7. Social Media Profile
 
- <a href="https://discord.gg/jg9999r/" title='Discord' >
+<a href="https://discord.gg/jg9999r/" title='Discord' >
     <img align="left" alt="Pappu Kumar's Discord" src="https://img.icons8.com/fluent/32/000000/discord-new-logo.png" />
 </a>
  <a href="https://twitter.com/TwistedPappu/" title='Twitter'>
