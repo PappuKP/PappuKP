@@ -11,7 +11,6 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br /><br />
 
 ***
-
 ## 1. Skills
 
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
@@ -39,7 +38,6 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br /><br />
       
 ***
-
 # 2. Statistics & Most Used Language
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=pappukp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
@@ -47,7 +45,6 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br /><br />
 
 ***
-
 # 3. My Work Project
 
 <table>
@@ -94,7 +91,6 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br /><br />
 
 ***
-
 # 4. Portfolio Website & Resume
 
 [![Portfolio Website](https://img.shields.io/badge/Pappu%20Kumar-Portfolio%20website-yellow)](https://pappukp.netlify.app/)
@@ -102,7 +98,6 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br /><br />
 
 ***
-
 # 5. Competitive Programming Profile
 
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pappuskskumar/)
@@ -117,7 +112,6 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br /><br />
 
 ***
-
 # 6. Developer Profile
 
 <a href="https://www.coursera.org/user/759f1e4f0ec6bea7722f902c3963ae60" title='Coursera'>
@@ -135,7 +129,6 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br /><br />
 
 ***
-
 # 7. Social Media Profile
 
  <a href="https://discord.gg/jg9999r/" title='Discord' >
@@ -171,11 +164,9 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br /><br />
 
 ***
-
 # 8. How to reach me
 
 💌Mail me [pappuskskumar@gmail.com]()
 
 📞Call ME [+917585881124]()
 
-***
