@@ -10,7 +10,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 <br /><br />
 
-## 1. Skills
+## Skills
 
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
 <code> <img title="sass" height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" /> </code>
@@ -36,13 +36,13 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <code>
 <br /><br />
 
-# 2. Statistics & Most Used Language
+# Statistics & Most Used Language
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=pappukp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Pappu Kumar Pashi's github stats](https://github-readme-stats.vercel.app/api?username=PappuKP&show_icons=true&theme=tokyonight)
 <br /><br />
 
-# 3. My Work Project
+# My Work Project
 
 <table>
   <thead>
@@ -87,13 +87,13 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 </table>
 <br /><br />
 
-# 4. Portfolio Website & Resume
+# Portfolio Website & Resume
 
 [![Portfolio Website](https://img.shields.io/badge/Pappu%20Kumar-Portfolio%20website-yellow)](https://pappukp.netlify.app/)
 [![Resume](https://img.shields.io/badge/Pappu%20Kumar-Resume-yellowgreen)](https://pappukp.netlify.app/Pappu_Kumar_Pashi_CV.pdf/)
 <br /><br />
 
-# 5. Competitive Programming Profile
+# Competitive Programming Profile
 
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pappuskskumar/)
 [![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/Pappu_Kumar_Pashi/)
@@ -107,7 +107,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br /><br />
 
 
-# 6. Developer Profile
+# Developer Profile
 
 <a href="https://www.coursera.org/user/759f1e4f0ec6bea7722f902c3963ae60" title='Coursera'>
     <img align="left" alt="Pappu Kumar's Coursera" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
@@ -124,9 +124,9 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br /><br />
 
 
-# 7. Social Media Profile
+# Social Media Profile
 
- <a href="https://discord.gg/jg9999r/" title='Discord' >
+<a href="https://discord.gg/jg9999r/" title='Discord' >
     <img align="left" alt="Pappu Kumar's Discord" src="https://img.icons8.com/fluent/32/000000/discord-new-logo.png" />
 </a>
  <a href="https://twitter.com/TwistedPappu/" title='Twitter'>
@@ -158,7 +158,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 </a>
 <br /><br />
 
-# 8. How to reach me
+# How to reach me
 
 💌Mail me [pappuskskumar@gmail.com]()
 
