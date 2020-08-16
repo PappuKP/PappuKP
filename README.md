@@ -106,6 +106,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 [![Topcoder](https://img.shields.io/badge/-Topcoder-ffff00?style=flat&labelColor=ffff00&logo=Topcoder&logoColor=white)](https://www.topcoder.com/members/Pappu_kumar/)
 <br /><br />
 
+
 # 6. Developer Profile
 
 <a href="https://www.coursera.org/user/759f1e4f0ec6bea7722f902c3963ae60" title='Coursera'>
@@ -124,7 +125,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 
 # 7. Social Media Profile
-<ul>
+
  <a href="https://discord.gg/jg9999r/" title='Discord' >
     <img align="left" alt="Pappu Kumar's Discord" src="https://img.icons8.com/fluent/32/000000/discord-new-logo.png" />
 </a>
@@ -156,7 +157,6 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
     <img align="left" alt="Pappu Kumar's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a>
 <br /><br />
-</ul>
 
 # 8. How to reach me
 
