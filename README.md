@@ -6,10 +6,9 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 **- 🔭 I’m currently focussing on ...**
 
-      React js, Node js, Express js, MongoDB , AWS, GCP, React Native, Bigquery
+      React js, Node js, Express js, MongoDB , AWS, GCP, React Native, Bigquery,etc
 
 <br /><br />
-
 ***
 ## 1. Skills
 
@@ -95,9 +94,11 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 [![Portfolio Website](https://img.shields.io/badge/Pappu%20Kumar-Portfolio%20website-yellow)](https://pappukp.netlify.app/)
 [![Resume](https://img.shields.io/badge/Pappu%20Kumar-Resume-yellowgreen)](https://pappukp.netlify.app/Pappu_Kumar_Pashi_CV.pdf/)
+
 <br /><br />
 
 ***
+
 # 5. Competitive Programming Profile
 
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pappuskskumar/)
@@ -109,6 +110,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 [![CS-Academy](https://img.shields.io/badge/-csacademy-a19a9a?style=flat&labelColor=a19a9a&logo=csacademy&logoColor=white)](https://csacademy.com/user/pappu_kumar/)
 [![AtCoder](https://img.shields.io/badge/-atcoder-61ecdb?style=flat&labelColor=61ecdb&logo=atcoder&logoColor=white)](https://atcoder.jp/users/pappu_kumar/)
 [![Topcoder](https://img.shields.io/badge/-Topcoder-ffff00?style=flat&labelColor=ffff00&logo=Topcoder&logoColor=white)](https://www.topcoder.com/members/Pappu_kumar/)
+
 <br /><br />
 
 ***
@@ -126,6 +128,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <a href="https://auth.geeksforgeeks.org/user/pappu_kumar_pashi/profile" title='geeksforgeeks'>
     <img align="left" alt="Pappu Kumar's geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
 </a>
+
 <br /><br />
 
 ***
@@ -161,9 +164,11 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <a href="https://medium.com/@pappuskskumar" title='Medium'>
     <img align="left" alt="Pappu Kumar's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a>
+
 <br /><br />
 
 ***
+
 # 8. How to reach me
 
 💌Mail me [pappuskskumar@gmail.com]()
