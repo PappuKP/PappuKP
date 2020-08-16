@@ -107,7 +107,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br /><br />
 
 
-# Developer Profile
+## Developer Profile
 
 <a href="https://www.coursera.org/user/759f1e4f0ec6bea7722f902c3963ae60" title='Coursera'>
     <img align="left" alt="Pappu Kumar's Coursera" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
@@ -123,9 +123,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 </a>
 <br /><br />
 
-
-# Social Media Profile
-
+## Social Media Profile
 <a href="https://discord.gg/jg9999r/" title='Discord' >
     <img align="left" alt="Pappu Kumar's Discord" src="https://img.icons8.com/fluent/32/000000/discord-new-logo.png" />
 </a>
@@ -158,7 +156,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 </a>
 <br /><br />
 
-# How to reach me
+## How to reach me
 
 💌Mail me [pappuskskumar@gmail.com]()
 
