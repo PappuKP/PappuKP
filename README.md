@@ -10,7 +10,9 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 <br /><br />
 
-## Skills
+***
+
+## 1. Skills
 
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
 <code> <img title="sass" height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" /> </code>
@@ -35,14 +37,18 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <code> <img title="google_bigquery" height="50" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"></code>
 <code>
 <br /><br />
+      
+***
 
-# Statistics & Most Used Language
+# 2. Statistics & Most Used Language
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=pappukp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Pappu Kumar Pashi's github stats](https://github-readme-stats.vercel.app/api?username=PappuKP&show_icons=true&theme=tokyonight)
 <br /><br />
 
-# My Work Project
+***
+
+# 3. My Work Project
 
 <table>
   <thead>
@@ -87,15 +93,32 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 </table>
 <br /><br />
 
-# Portfolio Website & Resume
+***
+
+# 4. Portfolio Website & Resume
 
 [![Portfolio Website](https://img.shields.io/badge/Pappu%20Kumar-Portfolio%20website-yellow)](https://pappukp.netlify.app/)
 [![Resume](https://img.shields.io/badge/Pappu%20Kumar-Resume-yellowgreen)](https://pappukp.netlify.app/Pappu_Kumar_Pashi_CV.pdf/)
 <br /><br />
 
+***
 
+# 5. Competitive Programming Profile
 
-## Developer Profile
+[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pappuskskumar/)
+[![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/Pappu_Kumar_Pashi/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/pappu_kumar_pashi/)
+[![Hackerearth](https://img.shields.io/badge/-Hackerearth-ff8c00?style=flat&labelColor=ff8c00&logo=Hackerearth&logoColor=white)](https://www.hackerearth.com/@Pappu_Kumar_Pashi/)
+[![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Pappu_kumar/)
+[![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/pappu_kumar_20/)
+[![CS-Academy](https://img.shields.io/badge/-csacademy-a19a9a?style=flat&labelColor=a19a9a&logo=csacademy&logoColor=white)](https://csacademy.com/user/pappu_kumar/)
+[![AtCoder](https://img.shields.io/badge/-atcoder-61ecdb?style=flat&labelColor=61ecdb&logo=atcoder&logoColor=white)](https://atcoder.jp/users/pappu_kumar/)
+[![Topcoder](https://img.shields.io/badge/-Topcoder-ffff00?style=flat&labelColor=ffff00&logo=Topcoder&logoColor=white)](https://www.topcoder.com/members/Pappu_kumar/)
+<br /><br />
+
+***
+
+# 6. Developer Profile
 
 <a href="https://www.coursera.org/user/759f1e4f0ec6bea7722f902c3963ae60" title='Coursera'>
     <img align="left" alt="Pappu Kumar's Coursera" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
@@ -111,21 +134,11 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 </a>
 <br /><br />
 
-# Competitive Programming Profile
+***
 
-[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pappuskskumar/)
-[![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/Pappu_Kumar_Pashi/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/pappu_kumar_pashi/)
-[![Hackerearth](https://img.shields.io/badge/-Hackerearth-ff8c00?style=flat&labelColor=ff8c00&logo=Hackerearth&logoColor=white)](https://www.hackerearth.com/@Pappu_Kumar_Pashi/)
-[![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Pappu_kumar/)
-[![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/pappu_kumar_20/)
-[![CS-Academy](https://img.shields.io/badge/-csacademy-a19a9a?style=flat&labelColor=a19a9a&logo=csacademy&logoColor=white)](https://csacademy.com/user/pappu_kumar/)
-[![AtCoder](https://img.shields.io/badge/-atcoder-61ecdb?style=flat&labelColor=61ecdb&logo=atcoder&logoColor=white)](https://atcoder.jp/users/pappu_kumar/)
-[![Topcoder](https://img.shields.io/badge/-Topcoder-ffff00?style=flat&labelColor=ffff00&logo=Topcoder&logoColor=white)](https://www.topcoder.com/members/Pappu_kumar/)
-<br /><br />
+# 7. Social Media Profile
 
-## Social Media Profile
-<a href="https://discord.gg/jg9999r/" title='Discord' >
+ <a href="https://discord.gg/jg9999r/" title='Discord' >
     <img align="left" alt="Pappu Kumar's Discord" src="https://img.icons8.com/fluent/32/000000/discord-new-logo.png" />
 </a>
  <a href="https://twitter.com/TwistedPappu/" title='Twitter'>
@@ -157,8 +170,12 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 </a>
 <br /><br />
 
-## How to reach me
+***
+
+# 8. How to reach me
 
 💌Mail me [pappuskskumar@gmail.com]()
 
 📞Call ME [+917585881124]()
+
+***
