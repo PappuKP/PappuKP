@@ -56,34 +56,34 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://pappukp.github.io'>Calculator</a></td>
+      <td><a href='https://pk-pomodoro-clock.netlify.app/'>Build a Pomodoro Clock</a></td>
       <td>Html,Css</td>
-      <td>It is a simple calculator which do +,-,\*,/  operation</td>
+      <td>It is a Simple Pomodoro Clock</td>
     </tr>
     <tr>
-      <td><a href="https://pappukp.github.io">CodeEditor</a></td>
+      <td><a href="https://js-best-calculator.netlify.app/">Calculator</a></td>
       <td>HTML,CSS,Javascript</td>
-      <td>write html cod here and result will display there</td>
+      <td>JavaScript Calculator</td>
     </tr>
     <tr>
-      <td><a href='https://pappukp.github.io'>Wordpad</a></td>
+      <td><a href='https://build-random-quote.netlify.app/'>Random Quote Machine</a></td>
       <td>Html,Css,Javascript</td>
-      <td>its functionality look like as wordpad</td>
+      <td>its a Random Quote Machine</td>
     </tr>
     <tr>
-      <td><a href='https://pappukp.github.io'>Address Maker</a></td>
+      <td><a href='https://pk-markdown-previewer.netlify.app/'>Markdown Previewer</a></td>
       <td>Html,Css,Javascript</td>
-      <td>it generates address in desing format by fiiling the details</td>
+      <td>it generates Markdown Previewer lusing text</td>
     </tr>
     <tr>
-      <td><a href="https://pappukp.github.io">Switcher app</a></td>
+      <td><a href="https://pk-personal-portfolio-website.netlify.app/">Personal Portfolio Webpage</a></td>
       <td>HTML,CSS,jQuery</td>
-      <td>It changes  the text color by drag and drp color on text</td>
+      <td>Personal Portfolio Webpage</td>
     </tr>
     <tr>
-      <td><a href='https://pappukp.github.io'>Music Player</a></td>
+      <td><a href='https://best-survey-form.netlify.app/'>Survey Form</a></td>
       <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
-      <td>add songs and play music,it also uses to store data in  INDEXEDB Database by which we can play songs,if we not clear the catch then song will remain stored in database.</td>
+      <td>Build a Survey Form</td>
     </tr>
   </tbody>
 </table>
