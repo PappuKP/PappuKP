@@ -7,8 +7,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 **- 🔭 I’m currently focussing on ...**
 
       React js, Node js, Express js, MongoDB , AWS, GCP, React Native, Bigquery,etc
-
-<br /><br />
+<br />
 ***
 ## Open Sourses Profiles
 [![sourcerer](https://img.shields.io/badge/-sourcerer-ff8c00?style=flat&labelColor=ff8c00&logo=sourcerer&logoColor=white)](https://sourcerer.io/pappukp/)
