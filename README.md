@@ -11,12 +11,6 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 <br />
 
 ***
-## Open Sourses Profiles
-
-[![sourcerer](https://img.shields.io/badge/-sourcerer-ff8c00?style=flat&labelColor=ff8c00&logo=sourcerer&logoColor=white)](https://sourcerer.io/pappukp/)
-[![opensourcefriday](https://img.shields.io/badge/-opensourcefriday-ec6161?style=flat&labelColor=ec6161&logo=opensourcefriday&logoColor=white)](https://opensourcefriday.com/users/PappuKP/)
-<br /><br />
-***
 ## 1. Skills
 
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
@@ -178,7 +172,14 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 ***
 
-# 8. How to reach me
+***
+## 8. Open Sourses Profiles
+
+[![sourcerer](https://img.shields.io/badge/-sourcerer-ff8c00?style=flat&labelColor=ff8c00&logo=sourcerer&logoColor=white)](https://sourcerer.io/pappukp/)
+[![opensourcefriday](https://img.shields.io/badge/-opensourcefriday-ec6161?style=flat&labelColor=ec6161&logo=opensourcefriday&logoColor=white)](https://opensourcefriday.com/users/PappuKP/)
+<br /><br />
+
+# 9. How to reach me
 
 💌Mail me [pappuskskumar@gmail.com]()
 
