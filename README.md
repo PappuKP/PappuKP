@@ -10,6 +10,14 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 <br /><br />
 ***
+## Open Sourses Profiles
+[![sourcerer](https://img.shields.io/badge/-sourcerer-61ecdb?style=flat&labelColor=61ecdb&logo=sourcerer&logoColor=white)](https://sourcerer.io/pappukp/)
+[![opensourcefriday](https://img.shields.io/badge/-opensourcefriday-61ecdb?style=flat&labelColor=61ecdb&logo=opensourcefriday&logoColor=white)](https://opensourcefriday.com/users/PappuKP/)
+
+
+
+<br /><br />
+***
 ## 1. Skills
 
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
