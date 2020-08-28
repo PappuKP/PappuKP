@@ -174,8 +174,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 ***
 ## 8. Open Sourses Profiles
-
-[![sourcerer](https://img.shields.io/badge/-sourcerer-ff8c00?style=flat&labelColor=ff8c00&logo=sourcerer&logoColor=white)](https://sourcerer.io/pappukp/)
+<a href="https://sourcerer.io/pappukp"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
 [![opensourcefriday](https://img.shields.io/badge/-opensourcefriday-ec6161?style=flat&labelColor=ec6161&logo=opensourcefriday&logoColor=white)](https://opensourcefriday.com/users/PappuKP/)
 <br /><br />
 
